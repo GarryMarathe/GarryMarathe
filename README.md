@@ -36,7 +36,7 @@
 
 ### Backend
 <img align="left" alt="Flask" width="50px" style="padding-right:10px; padding-top:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50px" alt="nodejs logo"  />
 <br/>
 <br/>
 <br/>
