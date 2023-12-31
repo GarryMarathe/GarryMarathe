@@ -35,7 +35,7 @@
 <br/>
 
 ### Backend
-<img align="left" alt="Flask" width="50px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="Flask" width="50px" style="padding-right:10px; padding-top:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="express"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" width="90px"/>
 <br/>
 <br/>
@@ -70,8 +70,8 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GarryMarathe&show_icons=true&locale=en&layout=compact&theme=dark" alt="Garry" /></p>
   </div>
 
-  <div>
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GarryMarathe&theme=black-ice" alt="Garry" /></p>
-  </div>
+  <!--   <div> -->
+<!--     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GarryMarathe&theme=black-ice" alt="Garry" /></p> -->
+<!--   </div> -->
 
 </div>
