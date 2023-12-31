@@ -41,4 +41,7 @@
 <br/>
 <br/>
 
-
+### Langauges
+<img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<br/>
+<br/>
