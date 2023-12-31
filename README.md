@@ -43,6 +43,7 @@
 
 ### Langauges
 <img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <br/>
 <br/>
 
@@ -61,3 +62,16 @@
 
 <br/>
 <br/>
+
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px; flex-wrap: wrap; gap: 10px;">
+
+  <div>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikamaish&show_icons=true&locale=en&layout=compact&theme=dark" alt="nikamaish" /></p>
+  </div>
+
+  <div>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikamaish&theme=black-ice" alt="nikamaish" /></p>
+  </div>
+
+</div>
