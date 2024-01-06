@@ -4,6 +4,10 @@
 <br/>
 <br/>
 
+- 🌱 I’m currently learning **React.JS**
+
+- 💬 Ask me about **Web development**
+
 ## Connect with me  
 <div align="left">
 
