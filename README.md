@@ -39,7 +39,7 @@
 
 ### Backend
 <img align="left" alt="Flask" width="50px" style="padding-right:10px; padding-top:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.simpleicons.org/nodedotjs/339933" />
+<img align="left" alt="Express" width="50px" style="padding-right:10px; padding-top:50px;" src="https://cdn.simpleicons.org/nodedotjs/339933" />
 <br/>
 
 
