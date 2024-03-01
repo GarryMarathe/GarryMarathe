@@ -2,7 +2,7 @@
 <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 and an IT undergrad with a keen interest in web development, UI/UX design, and event management. Enthusiastic about exploring and staying updated on emerging technologies.</h3>
 
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React.JS and Flask**
 
 - 💬 Ask me about **Web development**
 
