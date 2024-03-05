@@ -6,6 +6,8 @@
 
 - 💬 Ask me about **Web Development**
 
+- 📫 How to reach me **gauravmarathe6468@gmail.com**
+
 
 ## Connect with me  
 <div align="left">
