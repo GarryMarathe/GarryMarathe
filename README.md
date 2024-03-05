@@ -2,7 +2,7 @@
 <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 and an IT undergrad with a keen interest in web development, UI/UX design, and event management. Enthusiastic about exploring and staying updated on emerging technologies and looking for the opportunities as Software Developer </h3>
 
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Django and React JS**
 
 - 💬 Ask me about **Web Development**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav-marathe-709a77269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjaykuber" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaurav-marathe-709a77269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garry" height="30" width="40" /></a>
 </p>
 
 <!--
