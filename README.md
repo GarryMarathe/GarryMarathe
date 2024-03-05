@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Gaurav Marathe 👋</h1>
-<h3 align="center">I'm Full Stack Developer 👩🏻‍💻 and an IT undergrad with a keen interest in web development, UI/UX design, and event management. Enthusiastic about exploring and staying updated on emerging technologies.</h3>
+<h3 align="center">I'm Full Stack Developer 👩🏻‍💻 and an IT undergrad with a keen interest in web development, UI/UX design, and event management. Enthusiastic about exploring and staying updated on emerging technologies and looking for the opportunities </h3>
 
 
 - 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web Development**
 
 
 ## Connect with me  
