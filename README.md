@@ -16,21 +16,20 @@
 <a href="https://linkedin.com/in/gaurav-marathe-709a77269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjaykuber" height="30" width="40" /></a>
 </p>
 
+<!--
 <div align="left">
 <a href="mailto:gauravmarathe6468@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
-
-
-<!--<a href="https://github.com/GarryMarathe" target="_blank">
+<a href="https://github.com/GarryMarathe" target="_blank">
  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
-</a>-->
-
+</a>
 <a href="https://linkedin.com/in/gaurav-marathe-709a77269" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  
-</div>  
+</div>
+-->
+
 <br/> 
 
 
