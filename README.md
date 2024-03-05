@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gaurav Marathe 👋</h1>
-<h3 align="center">I'm Full Stack Developer 👩🏻‍💻 and an IT undergrad with a keen interest in web development, UI/UX design, and event management. Enthusiastic about exploring and staying updated on emerging technologies and looking for the opportunities </h3>
+<h3 align="center">I'm Full Stack Developer 👩🏻‍💻 and an IT undergrad with a keen interest in web development, UI/UX design, and event management. Enthusiastic about exploring and staying updated on emerging technologies and looking for the opportunities as Software Developer </h3>
 
 
 - 🌱 I’m currently learning **React.JS**
@@ -33,7 +33,7 @@
 <br/> 
 
 
-## My Technical Skills 
+## Tech Stack
 ### Frontend
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
