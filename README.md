@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gaurav Marathe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 and an IT undergrad with a keen interest in web development, UI/UX design, and event management. Enthusiastic about exploring and staying updated on emerging technologies and looking for the opportunities as Software Developer </h3>
-
+<br/>
 
 - 🌱 I’m currently learning **Django and React JS**
 
