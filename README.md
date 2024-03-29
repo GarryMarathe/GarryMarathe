@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django and React JS**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and Data Science**
 
 - 📫 How to reach me **gauravmarathe6468@gmail.com**
 
